@@ -1,0 +1,27 @@
+{
+  "name": "floodr",
+  "version": "0.0.1",
+  "description": "Software for Distributed File Sharing over any network.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/niklabh/floodr.git"
+  },
+  "keywords": [
+    "file",
+    "sharing",
+    "distributed",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Nikhil Ranjan (niklabh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niklabh/floodr/issues"
+  },
+  "homepage": "https://github.com/niklabh/floodr#readme"
+}
